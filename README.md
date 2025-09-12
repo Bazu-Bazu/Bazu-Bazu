@@ -1,6 +1,10 @@
-# Hello, I'm Dmitriy Ivanov! 🐱
+# Hi, I'm Dmitriy Ivanov! 🐱
 
-I'm 19 years old and I'm a Java Developer.
+<div align="left">
+  <img height="350" width="550" src=https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif />
+</div>
+
+**I'm 19 years old and I'm a Java Developer.**
 
 ## 🛠 Technologies & Tools
 
