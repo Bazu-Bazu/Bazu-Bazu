@@ -32,6 +32,7 @@
 
 - Email: iv.dima1304@mail.ru
 - Telegram: [@poka_chill_69](https://t.me/ваш-telegram)
+- LeetCode: [burkinafaso](https://leetcode.com/u/burkinafaso/)
 
 ## 🚀 My Recent Projects
 
