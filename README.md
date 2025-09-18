@@ -31,7 +31,7 @@
 ## 👨‍💻 How to Reach Me
 
 - Email: iv.dima1304@mail.ru
-- Telegram: [@poka_chill_69](https://t.me/ваш-telegram)
+- Telegram: [@poka_chill_69](https://t.me/poka_chill_69)
 - LeetCode: [burkinafaso](https://leetcode.com/u/burkinafaso/)
 
 ## 🚀 My Recent Projects
