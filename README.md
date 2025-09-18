@@ -37,7 +37,7 @@
 ## 🚀 My Recent Projects
 
 1. [Job Offers Aggregator](https://github.com/Bazu-Bazu/Job-Offers-Aggregator) - Telegram bot for searching for vacancies on the hh.ru website.
-2. [Marketplace](https://github.com/Bazu-Bazu/Marketplace) - A microservice application that implements the work of a marketplace
+2. [Marketplace](https://github.com/Bazu-Bazu/Marketplace) - A microservice application that implements the work of a marketplace.
 
 ## 🎓 Education
 
