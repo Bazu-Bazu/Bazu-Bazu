@@ -14,13 +14,14 @@
 ## 👨‍💻 How to Reach Me
 
 - Email: iv.dima1304@gmail.com
-- Telegram: [@poka_chill_69](https://t.me/poka_chill_69)
+- Telegram: [@burkina69](https://t.me/burkina69)
 - LeetCode: [burkinafaso](https://leetcode.com/u/burkinafaso/)
 
 ## 🚀 My Recent Projects
 
-1. [Job Offers Aggregator](https://github.com/Bazu-Bazu/Job-Offers-Aggregator) - Telegram bot for searching for vacancies on the hh.ru website.
+1. [Messenger](https://github.com/Bazu-Bazu/Messenger) - A messenger for people to communicate.
 2. [Marketplace](https://github.com/Bazu-Bazu/Marketplace) - A microservice application that implements the work of a marketplace.
+3. [Job Offers Aggregator](https://github.com/Bazu-Bazu/Job-Offers-Aggregator) - Telegram bot for searching for vacancies on the hh.ru website.
 
 ## 🎓 Education
 
