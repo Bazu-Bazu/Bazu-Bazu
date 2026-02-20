@@ -21,7 +21,9 @@
 
 1. [Messenger](https://github.com/Bazu-Bazu/Messenger) - A messenger for people to communicate.
 2. [Marketplace](https://github.com/Bazu-Bazu/Marketplace) - A microservice application that implements the work of a marketplace.
-3. [Job Offers Aggregator](https://github.com/Bazu-Bazu/Job-Offers-Aggregator) - Telegram bot for searching for vacancies on the hh.ru website.
+3. [Bank Card Management System](https://github.com/Bazu-Bazu/Bank-Card-Management-System) - An application for managing bank cards.
+4. [Interactive-Digital-Construction-Journal](https://github.com/Bazu-Bazu/Interactive-Digital-Construction-Journal) - Electronic journal of construction control introduction.
+5. [Job Offers Aggregator](https://github.com/Bazu-Bazu/Job-Offers-Aggregator) - Telegram bot for searching for vacancies on the hh.ru website.
 
 ## 🎓 Education
 
