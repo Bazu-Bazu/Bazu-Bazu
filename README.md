@@ -8,7 +8,7 @@
 
 ## 🛠 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,docker,postgresql,mysql,redis,mongodb,maven,idea,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,docker,kubernetes,jenkins,postgresql,redis,mongodb,maven,idea,ubuntu)](https://skillicons.dev)
 
 
 ## 👨‍💻 How to Reach Me
