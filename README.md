@@ -25,6 +25,9 @@
 4. [Interactive-Digital-Construction-Journal](https://github.com/Bazu-Bazu/Interactive-Digital-Construction-Journal) - Electronic journal of construction control introduction.
 5. [Job Offers Aggregator](https://github.com/Bazu-Bazu/Job-Offers-Aggregator) - Telegram bot for searching for vacancies on the hh.ru website.
 
+## 📝 LeetСode activity
+![LeetCode Stats](https://leetcard.jacoblin.cool/burkinafaso?theme=light&font=Inter&ext=heatmap)
+
 ## 🎓 Education
 
 **RTU MIREA** — Infrastructure of Information Technologies. 2024 — Present (Expected graduation: 2028)  
