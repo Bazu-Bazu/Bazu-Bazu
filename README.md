@@ -4,11 +4,11 @@
   <img height="350" width="550" src=https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif />
 </div>
 
-**I'm 19 years old and I'm a Java Developer.**
+**I'm 20 years old and I'm a Java Developer.**
 
 ## 🛠 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,docker,kubernetes,jenkins,postgresql,redis,mongodb,maven,idea,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,kafka,docker,kubernetes,jenkins,postgresql,redis,mongodb,maven,idea,ubuntu)](https://skillicons.dev)
 
 
 ## 👨‍💻 How to Reach Me
