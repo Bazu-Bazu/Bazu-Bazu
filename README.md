@@ -13,8 +13,8 @@
 
 ## 👨‍💻 How to Reach Me
 
-- Email: iv.dima1304@mail.ru
-- Telegram: [@burkina69](https://t.me/burkina69)
+- Email: leonefreetown27@gmail.com
+- Telegram: [@leonefreetown27](https://t.me/leonefreetown27)
 - LeetCode: [burkinafaso](https://leetcode.com/u/burkinafaso/)
 
 ## 🚀 My Recent Projects
