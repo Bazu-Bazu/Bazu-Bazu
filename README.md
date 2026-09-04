@@ -1,5 +1,3 @@
-# Hi, I'm Dmitriy Ivanov! 🐱
-
 <div align="left">
   <img height="350" width="550" src=https://media1.tenor.com/m/ViU89GMZlIcAAAAC/come-here-tom.gif />
 </div>
